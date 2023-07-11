@@ -1,0 +1,357 @@
+
+Region	Local_Authority	Population_1998	Land_Area_Miles	Population_per_square_mile	Population_per_Square_Kilometer
+South East	Adur	58,500	16	3,610	1,393
+North West	Allerdale	96,100	485	198	76
+North East	Alnwick	31,400	416	75	29
+East Midlands	Amber Valley	116,600	102	1,140	440
+South East	Arun	140,800	85	1,651	637
+East Midlands	Ashfield	107,900	42	2,543	981
+South East	Ashford	99,900	224	446	172
+South East	Aylesbury Vale	157,900	348	453	175
+East	Babergh	79,500	230	346	134
+London	Barking and Dagenham	155,600	13	11,862	4,576
+London	Barnet	331,500	34	9,654	3,725
+Yorkshire And The Humber	Barnsley	228,100	127	1,803	695
+North West	Barrow-in-Furness	70,400	30	2,339	903
+East	Basildon	164,400	42	3,874	1,495
+South East	Basingstoke and Deane	147,900	245	605	233
+East Midlands	Bassetlaw	105,700	246	430	166
+South West	Bath and North East Somerset UA	167,300	135	1,235	477
+East	Bedford	140,200	184	762	294
+North East	Berwick-upon-Tweed	26,500	375	71	27
+London	Bexley	217,800	24	9,255	3,570
+West Midlands	Birmingham	1,013,400	102	9,912	3,824
+East Midlands	Blaby	86,400	50	1,723	665
+North West	Blackburn with Darwen UA	140,000	53	2,649	1,022
+North West	Blackpool UA	150,500	14	11,146	4,300
+North East	Blyth Valley	80,700	27	2,988	1,153
+East Midlands	Bolsover	71,200	62	1,153	445
+North West	Bolton	267,500	54	4,953	1,911
+East Midlands	Boston	54,700	140	392	151
+South West	Bournemouth UA	162,400	18	9,151	3,530
+South East	Bracknell Forest UA	110,700	42	2,632	1,016
+Yorkshire And The Humber	Bradford	483,300	141	3,423	1,320
+East	Braintree	130,000	236	551	212
+East	Breckland	117,500	503	233	90
+London	Brent	253,200	17	14,916	5,755
+East	Brentwood	71,400	57	1,242	479
+West Midlands	Bridgnorth	52,200	244	214	82
+South East	Brighton and Hove UA	255,800	32	8,086	3,120
+South West	Bristol, City of UA	402,300	42	9,480	3,657
+East	Broadland	118,000	213	554	214
+London	Bromley	297,100	59	5,066	1,955
+West Midlands	Bromsgrove	85,200	85	1,004	387
+East	Broxbourne	82,300	20	4,102	1,583
+East Midlands	Broxtowe	109,700	31	3,510	1,354
+North West	Burnley	91,000	43	2,125	820
+North West	Bury	182,800	38	4,786	1,846
+Yorkshire And The Humber	Calderdale	192,900	140	1,377	531
+East	Cambridge	120,600	16	7,624	2,941
+London	Camden	188,600	8	22,221	8,573
+West Midlands	Cannock Chase	91,500	30	3,002	1,158
+South East	Canterbury	139,300	119	1,168	451
+South West	Caradon	81,300	256	317	122
+North West	Carlisle	103,000	401	257	99
+South West	Carrick	85,300	178	480	185
+North East	Castle Morpeth	50,200	239	210	81
+East	Castle Point	84,500	17	4,867	1,878
+East Midlands	Charnwood	155,400	108	1,444	557
+East	Chelmsford	154,600	132	1,172	452
+South West	Cheltenham	105,800	18	5,835	2,251
+South East	Cherwell	134,600	227	592	229
+North West	Chester	118,700	173	687	265
+North East	Chester-le-Street	57,200	26	2,180	841
+East Midlands	Chesterfield	100,200	25	3,935	1,518
+South East	Chichester	107,400	303	354	137
+South East	Chiltern	93,700	76	1,239	478
+North West	Chorley	97,900	78	1,250	482
+South West	Christchurch	43,900	19	2,276	878
+London	City of London	5,200	1	4,493	1,733
+East	Colchester	156,400	129	1,214	468
+North West	Congleton	88,400	81	1,086	419
+North West	Copeland	70,000	285	246	95
+East Midlands	Corby	51,400	31	1,665	643
+South West	Cotswold	82,800	449	184	71
+West Midlands	Coventry	304,300	37	8,131	3,137
+Yorkshire And The Humber	Craven	52,100	455	115	44
+South East	Crawley	96,600	17	5,691	2,195
+North West	Crewe and Nantwich	114,400	166	690	266
+London	Croydon	338,200	34	10,076	3,887
+East	Dacorum	137,100	82	1,676	647
+North East	Darlington UA	101,400	76	1,334	515
+South East	Dartford	85,400	28	3,032	1,170
+East Midlands	Daventry	67,900	257	264	102
+East Midlands	Derby UA	235,800	30	7,836	3,023
+East Midlands	Derbyshire Dales	70,700	307	231	89
+North East	Derwentside	88,200	105	844	325
+Yorkshire And The Humber	Doncaster	290,500	224	1,296	500
+South East	Dover	108,700	122	894	345
+West Midlands	Dudley	311,500	38	8,239	3,179
+North East	Durham	90,300	72	1,252	483
+London	Ealing	302,100	21	14,237	5,493
+North East	Easington	93,500	56	1,671	645
+East	East Cambridgeshire	72,900	253	288	111
+South West	East Devon	124,400	314	396	153
+South West	East Dorset	82,800	137	606	234
+South East	East Hampshire	111,300	199	560	216
+East	East Hertfordshire	127,100	184	691	266
+East Midlands	East Lindsey	124,800	679	184	71
+East Midlands	East Northamptonshire	73,500	197	374	144
+Yorkshire And The Humber	East Riding of Yorkshire UA	312,800	932	336	130
+West Midlands	East Staffordshire	103,400	150	687	265
+South East	Eastbourne	90,400	17	5,325	2,055
+South East	Eastleigh	112,500	31	3,645	1,406
+North West	Eden	50,100	832	60	23
+North West	Ellesmere Port and Neston	80,000	34	2,383	920
+South East	Elmbridge	129,300	37	3,455	1,333
+London	Enfield	264,900	31	8,477	3,270
+East	Epping Forest	119,800	131	913	352
+South East	Epsom and Ewell	70,300	13	5,359	2,068
+East Midlands	Erewash	107,800	42	2,563	989
+South West	Exeter	111,000	18	6,122	2,362
+South East	Fareham	105,200	29	3,685	1,422
+East	Fenland	81,300	211	386	149
+East	Forest Heath	69,200	144	480	185
+South West	Forest of Dean	77,800	203	383	148
+North West	Fylde	75,600	64	1,180	455
+North East	Gateshead	198,900	55	3,605	1,391
+East Midlands	Gedling	111,300	46	2,404	928
+South West	Gloucester	107,400	16	6,790	2,620
+South East	Gosport	76,700	10	7,952	3,068
+South East	Gravesham	91,800	38	2,403	927
+East	Great Yarmouth	89,300	67	1,330	513
+London	Greenwich	215,100	19	11,615	4,481
+South East	Guildford	126,700	105	1,212	468
+London	Hackney	194,700	8	25,233	9,735
+North West	Halton UA	121,700	29	4,263	1,645
+Yorkshire And The Humber	Hambleton	85,900	506	170	66
+London	Hammersmith and Fulham	157,500	6	25,515	9,844
+East Midlands	Harborough	75,200	229	329	127
+London	Haringey	221,600	12	19,146	7,387
+East	Harlow	75,800	12	6,549	2,527
+Yorkshire And The Humber	Harrogate	149,800	503	298	115
+London	Harrow	211,300	20	10,739	4,143
+South East	Hart	86,200	83	1,039	401
+North East	Hartlepool UA	91,900	36	2,534	978
+South East	Hastings	81,400	12	7,033	2,713
+South East	Havant	118,300	21	5,575	2,151
+London	Havering	228,300	46	5,015	1,935
+West Midlands	Herefordshire, County of UA	167,900	834	201	78
+East	Hertsmere	97,300	38	2,573	993
+East Midlands	High Peak	88,900	208	427	165
+London	Hillingdon	251,200	42	5,919	2,284
+East Midlands	Hinckley and Bosworth	97,700	115	853	329
+South East	Horsham	121,700	204	595	230
+London	Hounslow	211,600	22	9,456	3,648
+East	Huntingdonshire	156,400	352	445	171
+North West	Hyndburn	79,400	28	2,819	1,088
+East	Ipswich	113,900	15	7,570	2,921
+South East	Isle of Wight UA	127,000	147	866	334
+South West	Isles of Scilly	2,000	6	346	133
+London	Islington	179,000	6	30,931	11,933
+South West	Kennet	79,500	369	215	83
+London	Kensington and Chelsea	169,900	5	36,698	14,158
+South West	Kerrier	90,500	182	496	191
+East Midlands	Kettering	82,400	90	917	354
+East	King's Lynn and West Norfolk	133,500	551	242	93
+Yorkshire And The Humber	Kingston upon Hull, City of UA	261,800	27	9,558	3,687
+London	Kingston upon Thames	147,300	15	10,047	3,876
+Yorkshire And The Humber	Kirklees	390,900	158	2,471	953
+North West	Knowsley	154,600	37	4,131	1,594
+London	Lambeth	269,500	10	25,872	9,981
+North West	Lancaster	136,700	222	615	237
+Yorkshire And The Humber	Leeds	727,400	217	3,355	1,294
+East Midlands	Leicester UA	294,300	28	10,450	4,032
+South East	Lewes	85,900	113	763	294
+London	Lewisham	243,800	14	18,055	6,966
+West Midlands	Lichfield	94,100	127	741	286
+East Midlands	Lincoln	82,800	14	5,962	2,300
+North West	Liverpool	461,500	44	10,586	4,084
+East	Luton UA	183,300	17	11,049	4,263
+North West	Macclesfield	153,100	203	756	292
+South East	Maidstone	141,100	152	931	359
+East	Maldon	56,400	139	406	157
+West Midlands	Malvern Hills	74,100	230	323	125
+North West	Manchester	429,800	45	9,604	3,705
+East Midlands	Mansfield	99,300	30	3,343	1,290
+South East	Medway UA	242,600	74	3,275	1,264
+East Midlands	Melton	46,300	186	250	96
+South West	Mendip	99,200	285	348	134
+London	Merton	184,300	15	12,571	4,850
+East	Mid Bedfordshire	123,000	194	634	245
+South West	Mid Devon	67,400	353	191	74
+East	Mid Suffolk	81,900	336	244	94
+South East	Mid Sussex	127,100	128	989	382
+North East	Middlesbrough UA	145,100	21	6,965	2,687
+South East	Milton Keynes UA	203,200	119	1,705	658
+South East	Mole Valley	78,700	100	791	305
+South East	New Forest	171,000	291	589	227
+East Midlands	Newark and Sherwood	105,000	251	418	161
+West Midlands	Newcastle-under-Lyme	123,300	81	1,515	584
+North East	Newcastle upon Tyne	276,100	43	6,390	2,465
+London	Newham	231,300	14	16,654	6,425
+South West	North Cornwall	80,700	459	176	68
+South West	North Devon	87,100	419	208	80
+South West	North Dorset	60,500	235	257	99
+East Midlands	North East Derbyshire	98,300	107	920	355
+Yorkshire And The Humber	North East Lincolnshire UA	156,200	74	2,109	814
+East	North Hertfordshire	116,700	145	807	311
+East Midlands	North Kesteven	87,600	356	246	95
+Yorkshire And The Humber	North Lincolnshire UA	152,300	321	474	183
+East	North Norfolk	100,200	372	269	104
+West Midlands	North Shropshire	54,600	262	208	80
+South West	North Somerset UA	188,700	144	1,311	506
+North East	North Tyneside	194,000	32	5,986	2,310
+West Midlands	North Warwickshire	61,900	110	563	217
+East Midlands	North West Leicestershire	85,000	108	790	305
+South West	North Wiltshire	123,800	296	418	161
+East Midlands	Northampton	195,800	31	6,266	2,417
+East	Norwich	124,000	15	8,241	3,179
+East Midlands	Nottingham UA	286,800	29	9,912	3,824
+West Midlands	Nuneaton and Bedworth	118,500	30	3,888	1,500
+East Midlands	Oadby and Wigston	52,700	9	5,692	2,196
+North West	Oldham	219,200	54	4,030	1,555
+West Midlands	Oswestry	34,600	99	350	135
+South East	Oxford	144,100	18	8,120	3,133
+North West	Pendle	83,200	65	1,276	492
+South West	Penwith	59,300	117	506	195
+East	Peterborough UA	156,000	133	1,175	453
+South West	Plymouth UA	253,000	31	8,197	3,163
+South West	Poole UA	141,500	25	5,643	2,177
+South East	Portsmouth UA	189,900	15	12,306	4,748
+North West	Preston	135,000	55	2,464	951
+South West	Purbeck	46,100	156	296	114
+South East	Reading UA	147,800	15	9,577	3,695
+London	Redbridge	231,900	22	10,734	4,141
+North East	Redcar and Cleveland UA	138,300	95	1,463	564
+West Midlands	Redditch	76,700	21	3,682	1,420
+South East	Reigate and Banstead	120,200	50	2,415	932
+South West	Restormel	91,300	174	524	202
+North West	Ribble Valley	53,100	225	236	91
+London	Richmond upon Thames	186,700	21	8,799	3,395
+Yorkshire And The Humber	Richmondshire	49,300	509	97	37
+North West	Rochdale	208,200	62	3,373	1,301
+East	Rochford	77,300	65	1,186	457
+North West	Rossendale	64,300	53	1,208	466
+South East	Rother	91,400	197	464	179
+Yorkshire And The Humber	Rotherham	254,400	109	2,330	899
+West Midlands	Rugby	87,800	137	639	247
+South East	Runnymede	76,400	30	2,539	979
+East Midlands	Rushcliffe	105,900	158	671	259
+South East	Rushmoor	87,200	15	5,795	2,236
+East Midlands	Rutland UA	35,700	152	235	91
+Yorkshire And The Humber	Ryedale	48,500	581	83	32
+North West	Salford	225,900	37	6,036	2,329
+South West	Salisbury	113,900	387	294	113
+West Midlands	Sandwell	290,500	33	8,756	3,378
+Yorkshire And The Humber	Scarborough	108,200	315	343	132
+North East	Sedgefield	89,300	84	1,067	412
+South West	Sedgemoor	104,300	218	479	185
+North West	Sefton	287,700	59	4,874	1,880
+Yorkshire And The Humber	Selby	71,200	232	307	118
+South East	Sevenoaks	111,700	142	787	304
+Yorkshire And The Humber	Sheffield	531,100	142	3,751	1,447
+South East	Shepway	99,800	138	725	280
+West Midlands	Shrewsbury and Atcham	97,400	232	419	162
+South East	Slough UA	111,700	10	10,723	4,137
+West Midlands	Solihull	205,600	69	2,977	1,149
+East	South Bedfordshire	110,100	82	1,340	517
+South East	South Bucks	63,700	56	1,139	439
+East	South Cambridgeshire	132,500	348	381	147
+East Midlands	South Derbyshire	80,700	130	619	239
+South West	South Gloucestershire UA	241,000	192	1,257	485
+South West	South Hams	80,200	342	234	90
+East Midlands	South Holland	73,400	286	256	99
+East Midlands	South Kesteven	122,700	364	337	130
+North West	South Lakeland	103,200	600	172	66
+East	South Norfolk	107,700	350	307	119
+East Midlands	South Northamptonshire	77,300	245	316	122
+South East	South Oxfordshire	127,400	262	486	188
+North West	South Ribble	103,600	44	2,376	917
+West Midlands	South Shropshire	41,500	396	105	40
+South West	South Somerset	153,700	370	415	160
+West Midlands	South Staffordshire	102,500	157	651	251
+North East	South Tyneside	154,600	25	6,261	2,416
+South East	Southampton UA	216,000	19	11,197	4,320
+East	Southend-on-Sea UA	176,000	16	10,862	4,190
+London	Southwark	232,000	11	20,736	8,000
+South East	Spelthorne	88,600	22	4,029	1,554
+West Midlands	Stafford	126,600	231	548	211
+West Midlands	Staffordshire Moorlands	94,400	222	425	164
+East	Stevenage	78,500	10	7,826	3,019
+North West	Stockport	292,800	49	6,023	2,324
+North East	Stockton-on-Tees UA	181,000	79	2,300	887
+West Midlands	Stoke-on-Trent UA	251,500	36	7,010	2,704
+West Midlands	Stratford-on-Avon	114,700	377	304	117
+South West	Stroud	109,000	178	613	236
+East	St. Albans	131,400	62	2,115	816
+East	St. Edmundsbury	97,200	253	383	148
+North West	St. Helens	178,400	51	3,477	1,341
+East	Suffolk Coastal	121,200	344	352	136
+North East	Sunderland	292,300	53	5,490	2,118
+South East	Surrey Heath	83,900	37	2,289	883
+London	Sutton	177,100	17	10,675	4,119
+South East	Swale	118,700	144	825	318
+South West	Swindon UA	179,700	89	2,025	781
+North West	Tameside	220,400	40	5,546	2,140
+West Midlands	Tamworth	73,900	12	6,179	2,384
+South East	Tandridge	79,400	96	823	318
+South West	Taunton Deane	99,700	178	559	216
+North East	Teesdale	25,000	324	77	30
+South West	Teignbridge	119,400	260	459	177
+West Midlands	Telford and Wrekin UA	149,800	112	1,339	517
+East	Tendring	134,900	130	1,038	400
+South East	Test Valley	111,500	246	454	175
+South West	Tewkesbury	74,500	160	466	180
+South East	Thanet	126,700	40	3,188	1,230
+East	Three Rivers	86,500	34	2,519	972
+East	Thurrock UA	135,000	63	2,134	823
+South East	Tonbridge and Malling	106,000	93	1,145	442
+South West	Torbay UA	123,000	24	5,061	1,952
+South West	Torridge	55,400	378	147	57
+London	Tower Hamlets	181,300	8	23,496	9,065
+North West	Trafford	220,300	41	5,387	2,078
+South East	Tunbridge Wells	102,700	128	802	309
+North East	Tynedale	58,800	856	69	26
+East	Uttlesford	69,300	247	280	108
+South East	Vale of White Horse	113,200	223	507	196
+North West	Vale Royal	117,800	147	804	310
+Yorkshire And The Humber	Wakefield	318,800	128	2,481	957
+West Midlands	Walsall	261,200	41	6,387	2,464
+London	Waltham Forest	221,400	15	14,347	5,535
+London	Wandsworth	265,600	14	19,670	7,589
+North East	Wansbeck	62,100	26	2,402	927
+North West	Warrington UA	190,200	68	2,801	1,081
+West Midlands	Warwick	123,800	109	1,138	439
+East	Watford	81,700	8	10,084	3,890
+East	Waveney	108,200	143	758	292
+South East	Waverley	115,400	133	867	334
+South East	Wealden	142,300	323	441	170
+North East	Wear Valley	63,000	195	323	125
+East Midlands	Wellingborough	67,600	63	1,075	415
+East	Welwyn Hatfield	95,000	49	1,939	748
+South East	West Berkshire UA	144,200	272	531	205
+South West	West Devon	47,500	448	106	41
+South West	West Dorset	91,100	417	218	84
+North West	West Lancashire	111,200	130	853	329
+East Midlands	West Lindsey	77,200	446	173	67
+South East	West Oxfordshire	97,400	275	354	136
+South West	West Somerset	32,500	280	116	45
+South West	West Wiltshire	108,600	199	544	210
+London	Westminster	220,800	8	26,014	10,036
+South West	Weymouth and Portland	63,000	16	3,888	1,500
+North West	Wigan	310,500	77	4,044	1,560
+South East	Winchester	110,000	255	431	166
+South East	Windsor and Maidenhead UA	140,500	76	1,839	710
+North West	Wirral	327,100	61	5,332	2,057
+South East	Woking	91,800	25	3,718	1,434
+South East	Wokingham UA	145,300	69	2,104	812
+West Midlands	Wolverhampton	241,600	27	9,076	3,501
+West Midlands	Worcester	95,300	13	7,485	2,888
+South East	Worthing	99,700	12	8,076	3,116
+West Midlands	Wychavon	110,600	256	432	167
+South East	Wycombe	163,400	125	1,303	503
+North West	Wyre	105,100	110	959	370
+West Midlands	Wyre Forest	96,300	75	1,280	494
+Yorkshire And The Humber	York UA	177,400	105	1,697	655
+Total	 	49,494,500	50,319	984	379
